@@ -1,0 +1,137 @@
+DISTRICT,HOT_DAYS,TEMP,sb2q2b
+nasirabad/ tamboo,3855,39.94,420
+jaffarabad,3799,39.56,408
+sukkur,3686,39.23,324
+sohbatpur,3683,39.18,430
+jacobabad,3674,39.1,305
+larkana,3584,39.08,315
+shikarpur,3529,38.74,322
+ghotki,3528,38.88,303
+jhal magsi,3524,39.4,409
+nowshero feroze,3446,38.78,318
+kashmore,3408,38.39,312
+shahdadkot,3338,38.62,320
+rahim yar khan,3276,38.4,229
+khairpur,3240,38.4,313
+dadu,3172,38.39,302
+bahawalpur,3069,38.14,203
+shaheed banazir abad,3032,37.96,321
+chagai,2917,37.79,403
+washuk,2731,37.57,431
+kachhi/ bolan,2682,37.3,410
+muzaffar garh,2673,37.32,224
+rajanpur,2662,37.25,230
+multan,2568,37.1,223
+dera bugti,2535,37.05,404
+layyah,2508,37.19,219
+lodhran,2462,36.92,220
+khanewal,2383,36.75,216
+bahawalnagar,2352,36.76,202
+jhang,2300,36.73,214
+vehari,2296,36.61,237
+sanghar,2267,36.71,319
+kharan,2214,36.22,413
+sibbi,2051,36.0,429
+sahiwal,2037,36.16,232
+t.t. singh,2026,36.17,236
+d. g. khan,1985,35.72,207
+pakpattan,1985,36.08,228
+umer kot,1857,35.92,329
+d. i. khan,1849,35.94,108
+nushki,1844,35.63,421
+chiniot,1817,35.91,206
+faisalabad,1736,35.7,208
+matiari,1703,35.93,316
+okara,1679,35.55,227
+khushab,1532,35.31,217
+tharparkar,1515,35.06,327
+sargodha,1513,35.37,233
+kech/turbat,1481,35.68,412
+tando allah yar,1456,35.57,325
+nankana sahib,1441,35.15,225
+hafizabad,1402,35.05,211
+tank,1349,34.68,130
+kasur,1340,34.84,215
+panjgoor,1316,35.3,422
+charsada,1297,34.6,106
+mir pur khas,1251,35.25,317
+kohlu,1248,34.13,415
+lakki marwat,1226,34.57,116
+mandi bahauddin,1209,34.62,221
+awaran,1206,35.02,401
+mianwali,1199,34.69,222
+sheikhupura,1197,34.45,234
+jamshoro,1190,34.51,306
+gujranwala,1166,34.36,209
+bannu,1150,33.95,103
+lahore,1112,34.29,218
+gujrat,846,33.65,210
+peshawar,839,33.09,125
+hyderabad,832,34.56,304
+nowshera,831,33.59,123
+karak,808,32.83,111
+mardan,755,33.17,120
+attock,754,33.44,201
+kohat,735,32.84,113
+jehlum,733,33.4,213
+sialkot,718,33.32,235
+badin,692,34.16,301
+khuzdar,579,32.85,414
+narowal,561,32.93,226
+tando muhammad khan,552,34.1,326
+malakand,508,32.11,118
+bhimber,493,32.13,502
+chakwal,441,32.39,205
+swabi,433,32.27,128
+lasbela,416,32.57,416
+mohmand,380,31.38,121
+gwadar,371,32.37,406
+mirpur,313,31.66,506
+rawalpindi,276,30.97,231
+loralai,229,31.18,417
+khyber,215,30.01,112
+hangu,213,29.01,109
+barkhan,207,30.26,402
+thatta,206,32.23,328
+haripur,185,30.25,110
+harnai,180,28.76,407
+north waziristan,144,26.93,122
+musa khel,136,29.31,419
+bunair,124,29.45,105
+kotli,123,29.95,505
+sujawal,121,31.96,323
+south waziristan,119,27.61,127
+islamabad,116,29.89,212
+qilla abdullah,76,30.63,424
+sherani,44,28.34,428
+quetta,30,30.68,426
+kalat,26,29.2,411
+zhob,19,29.07,432
+bajur,16,28.16,102
+lower dir,10,26.29,117
+qilla saifullah,10,28.42,425
+ziarat,4,26.47,433
+sudhnoti,4,27.07,510
+orakzai,3,25.84,124
+kurram,2,24.53,115
+pishin,1,28.19,423
+mastung,1,29.3,418
+ghanchi,0,-0.55,604
+biltistan,0,3.31,602
+ghizer,0,7.17,605
+chitral,0,8.24,107
+astore,0,8.44,601
+neelum,0,10.75,508
+gilgit,0,12.16,606
+diamir,0,12.81,603
+kohistan,0,14.16,114
+upper dir,0,14.97,132
+swat,0,15.66,129
+mansehra,0,16.41,119
+hattian bala,0,18.57,503
+haveli,0,19.17,504
+muzaffarabad,0,20.99,507
+shangla,0,21.9,126
+bagh,0,22.77,501
+batagram,0,23.23,104
+abbottabad,0,25.98,101
