@@ -1,4 +1,4 @@
-DISTRICT,HOT_DAYS,TEMP,sb2q2b
+DISTRICT,HOT_DAYS,TEMP,district_codes
 nasirabad/ tamboo,3855,39.94,420
 jaffarabad,3799,39.56,408
 sukkur,3686,39.23,324
@@ -31,7 +31,7 @@ jhang,2300,36.73,214
 vehari,2296,36.61,237
 sanghar,2267,36.71,319
 kharan,2214,36.22,413
-sibbi,2051,36.0,429
+sibbi,2051,36,429
 sahiwal,2037,36.16,232
 t.t. singh,2026,36.17,236
 d. g. khan,1985,35.72,207
